@@ -1,6 +1,0 @@
-{
-    "compilerOptions": {
-        "target": "es5",             // Compile TypeScript to ES5-compatible JavaScript, if use babel use esnext
-        "outDir": "dist"             // Output compiled JavaScript to the "dist" directory
-    }
-}
